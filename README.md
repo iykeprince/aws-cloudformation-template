@@ -9,4 +9,5 @@
 
 # Script Troubleshooting
 chmod +x create.sh
+
 chmod +x update.sh
